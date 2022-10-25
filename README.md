@@ -1,3 +1,6 @@
+# NOTE
+This is a copy of a repository existing outside of GitHub, for the original version, check here: https://git.nefald.fr/docker/geyser/-/tree/master/
+
 # ![](https://git.nefald.fr/uploads/-/system/project/avatar/219/Geyser.png?width=48) Geyser (standalone) - Unofficial Docker image
 
 [GeyserMC](https://geysermc.org/) allow clients from Minecraft Bedrock Edition to join your Minecraft Java server.
